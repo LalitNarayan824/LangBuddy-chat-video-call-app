@@ -1,0 +1,8 @@
+basically a chat and streaming app ,  with online status , notifictaions , threats , image uploads , one 0 one or group calls , which is all under a large skill sharing platform
+we'll be using somewhat production grade techniques , like tanstack query 
+
+
+
+New Things I Learned:
+1. pre hook in user model to hash the password before saving**
+2. using query to protect routes using a check whether we have a authenticated user at the moment or not which we get from the backend

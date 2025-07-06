@@ -1,0 +1,23 @@
+#LOGIN FLOW
+we get the credentials from the body
+
+check if they are all present 
+
+check passwords length
+
+check emails regex
+
+check if any user already exists with the email id
+
+we are providing user with a random avatar
+
+we create a user
+
+create a token ,  put user id of newly created user and set expiry date
+
+put the token in the cookie of the user
+
+and return
+
+
+
